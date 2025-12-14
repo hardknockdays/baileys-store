@@ -43,7 +43,7 @@
     "@types/jest": "^27.5.1",
     "@types/node": "^16.0.0",
     "@types/ws": "^8.0.0",
-    "baileys": "^7.0.0-rc.5",
+    "baileys": "^7.0.0-rc.9",
     "conventional-changelog-cli": "^2.2.2",
     "eslint": "^8.0.0",
     "jest": "^27.0.6",
@@ -60,7 +60,7 @@
     "typescript": "^5.8.2"
   },
   "peerDependencies": {
-    "baileys": "^6.7.17 || ^7.0.0-rc.5 || ^7.0.0"
+    "baileys": "^6.7.17 || ^7.0.0-rc.0 < ^8.0.0"
   },
   "peerDependenciesMeta": {
     "baileys": {
